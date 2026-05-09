@@ -1,0 +1,36 @@
+.home{
+    display: block;
+    text-align: center;
+}
+
+.recipe-links ul{
+    list-style: none;
+}
+
+.recipe-links li{
+    padding: 20px;
+    border: 1px;
+    border-color: black;
+}
+
+.title{
+    font-size: 48px;
+    font-weight: bold;
+
+    color: orange;
+
+   text-shadow:
+    -2px -2px 0 black,
+     2px -2px 0 black,
+    -2px  2px 0 black,
+     2px  2px 0 black,
+     2px 2px 0 black,
+     4px 4px 8px rgba(0,0,0,0.5);
+
+    letter-spacing: 2px;
+
+    margin-top: 30px;
+
+    font-family: "Permanent Marker", cursive;
+    letter-spacing: 2px;
+}
